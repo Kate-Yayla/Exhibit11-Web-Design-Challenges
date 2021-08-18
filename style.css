@@ -1,6 +1,6 @@
 /* Body */
 body{
-    background-color: #f3f7f7; 
+    background-color: #faf6f4; 
   }
   /* Navbar */
   .navbar{
@@ -28,7 +28,7 @@ body{
     background-color:#cbdae0 !important; 
   }
   a{
-    color: #f7f7f7fd;
+    color: #f1f0eefd;
     font-size: 15px; 
   }
   .nav-link:hover{
@@ -40,9 +40,14 @@ body{
   }
   /* Images */
   img{
-    width:140% !important;
-    height:140% !important; 
+    width:140% ;
+    height:140% ; 
   }
+  .img-2{
+  width:100% ;
+  height:100% ;
+  padding-top: 25px; 
+ }
   .active, .panel:hover{
     border-color:#0BADA6;
     border-style: groove; 

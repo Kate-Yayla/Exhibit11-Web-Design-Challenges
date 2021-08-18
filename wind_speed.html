@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
-  
-  <title>Cloudiness</title>
+
+  <title>Wind Speed</title>
  
 
   <!-- Bootstrap CSS -->
@@ -16,7 +16,6 @@
 
   <!--CSS Link-->
   <link rel="stylesheet" type="text/css" href="style.css">
-
 </head>
 
 <body>
@@ -38,14 +37,14 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="max_temperature.html">Max Temperature</a>
               <a class="dropdown-item" href="humidity.html">Humidity</a>
-              <a class="dropdown-item active" href="cloudiness.html">Cloudiness</a>
-              <a class="dropdown-item" href="wind_speed.html">Wind Speed</a>
-              <a class="dropdown-item" href="comparisons.html">Comparison</a>
+              <a class="dropdown-item" href="cloudiness.html">Cloudiness</a>
+              <a class="dropdown-item active" href="wind_speed.html">Wind Speed</a>
+              <a class="dropdown-item" href="comparison.html">Comparison</a>
               <a class="dropdown-item" href="data.html">Data</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="comparisons.html">Comparison</a>
+            <a class="nav-link" href="comparison.html">Comparison</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="data.html">Data</a>
@@ -61,11 +60,11 @@
       <div class="col-lg-8 col-md-12">
         <!-- Left box  -->
         <div class="box">
-          <h3 class="title">Cloudiness</h3>
+          <h3 class="title">Wind Speed</h3>
           <hr>
-          <img src="Resources/assets/Images/Fig3.png" class="vizualization rounded float-left" alt="Cloudines Graph">
-          <p>Cloudiness does not show a strong correlation to latitude. The Visualization shows,
-             There is no strong relationship between latitude and cloudiness.</p>
+          <img src="Resources/assets/Images/Fig4.png" class="vizualization rounded float-left" alt="Max Temperature Graph">
+          <p>As expected, the weather becomes significantly warmer around the equator (0 Deg. Latitude).
+            There is no strong relationship between latitude and wind speed.</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-12">
@@ -75,12 +74,11 @@
           <hr>
 
 
-
           <div class="container">
             <div class="row" style="padding-bottom: 30px;">
               <div class="col-6">
                 <a href="max_temperature.html">
-                  <img class="panel" src="Resources/assets/Images/Fig1.png" alt="Max Temperature Image">
+                  <img class="panel active" src="Resources/assets/Images/Fig1.png" alt="Max Temperature Image">
                 </a>
               </div>
               <div class="col-6">
@@ -93,7 +91,7 @@
             <div class="row" style="padding-bottom: 30px;">
               <div class="col-6">
                 <a href="cloudiness.html">
-                  <img class="panel active" src="Resources/assets/Images/Fig3.png" alt="Cloudiness Graph">
+                  <img class="panel" src="Resources/assets/Images/Fig3.png" alt="Cloudiness Graph">
                 </a>
               </div>
               <div class="col-6">
@@ -123,7 +121,7 @@
     crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" 
     crossorigin="anonymous"></script>
-
+<!-- Finally:) -->
 </body>
-
+<!-- The End -->
 </html>
