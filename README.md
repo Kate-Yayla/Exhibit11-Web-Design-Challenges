@@ -86,12 +86,12 @@ Small screen:
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
+
 ![nav menu large screen](webpages-images/navigation.png)
 
 Small screen:
-![nav menu small screen](webpages-images/navigationmedia.png)
 
-
+![small screen](webpages-images/navigationmedia.png)
 
 ## References
 
