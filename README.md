@@ -1,5 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard 
-Data is more powerful when we share it with others! Let's see what I've learned about HTML and CSS to create a dashboard showing off the analysis I've done.
+
+Data is more powerful when we share it with others! Let's see what I've learned about HTML and CSS to create a dashboard showing off the analysis I've done.Here is the my GitHub page https://kate-yayla.github.io/Exhibit11-Web-Design-Challenges/
 
 ## Landing page
 
@@ -31,12 +32,7 @@ The website has all pages at the top of every page, have a navigation menu that:
 * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links on the right: "Comparison," which links to the comparison page, and "Data," which links to the data page.
 * Is responsive (using media queries). The nav has similar behavior such as changing color or moving the nav to the different view when the pages get smaller. 
-Finally, the website must be deployed to GitHub pages.
-
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
-
-Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
+Finally, the website deployed to my GitHub pages.
 
 ### Screenshots
 
