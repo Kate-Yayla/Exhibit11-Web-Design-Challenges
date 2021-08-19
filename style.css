@@ -1,6 +1,7 @@
 /* Body */
 body{
-    background-color: #faf6f4; 
+    background-color: white; 
+
   }
   /* Navbar */
   .navbar{
@@ -37,6 +38,9 @@ body{
   
   .navbar-brand:hover{
   color: rgb(249, 253, 244) !important;
+  }
+  .div.box{
+  padding: 10px 50px 5px;
   }
   /* Images */
   img{
@@ -80,9 +84,9 @@ body{
   
   /* Box Class */
   .box {
-    margin-top: 60px; 
-    margin-bottom: 62px; 
-    padding: 10px 20px 15px; 
+    margin-top: 60px;
+    margin-bottom: 70px;
+    padding: 10px 50px 15px;
     color:black;
     background-color: white; 
   
@@ -96,10 +100,10 @@ body{
   footer{
   background-color: #a8a4a4; 
   border-top-style: solid; 
-  border-top-width: 5px; 
+  border-top-width: 3px; 
   border-top-color: #3711a0;
   color: white; 
-  min-height: 40px; 
+  min-height: 20px; 
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px; 
   text-align: center; 
@@ -107,10 +111,10 @@ body{
   left: 0;
   bottom: 0;
   width: 100%;
-  padding-top: 15px; 
+  padding-top: 10px; 
   }
   /* Media Queries */
-  @media(max-width: 992px){
+  @media(max-width: 950px){
   .navbar-expand-lg{
   background-color: #666666 !important;
   }
