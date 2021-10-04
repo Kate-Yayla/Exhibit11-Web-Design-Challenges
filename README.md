@@ -1,6 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard 
 
-Data is more powerful when we share it with others! Let's see what I've learned about HTML and CSS to create a dashboard showing off the analysis I've done.Here is the my GitHub page https://kate-yayla.github.io/Exhibit11-Web-Design-Challenges/
+Data is more powerful when we share it with others! Let's see what I've learned about HTML and CSS to create a dashboard showing off the analysis I've done.Here is the my GitHub page https://kate-yayla/Exhibit11-Web-Design-Challenges/
 
 ## Landing page
 
